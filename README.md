@@ -7,3 +7,5 @@
   -   Real Analysis and Calculus
   -   Web Front-end (HTML/CSS/JS/Web API)
   -   Wiki engines
+
+I only write code in Github. Check my Notion for texts I have written!
